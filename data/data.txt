@@ -1,0 +1,192 @@
+Samsung Electronics Co., Ltd. é uma empresa multinacional sul-coreana de eletrônicos com sede em Yeongtong-gu, Suwon na Coreia do Sul. É o auge do chaebol da Samsung, respondendo por 70% da receita do grupo em 2012. A Samsung Electronics desempenhou um papel fundamental na governança corporativa do grupo devido à propriedade circular. A Samsung Electronics tem fábricas de montagem e redes de vendas em 74 países e emprega cerca de 290.000 pessoas. É de propriedade majoritária de investidores estrangeiros. Em 2019, a Samsung Electronics é a segunda maior empresa de tecnologia do mundo em receita, e sua capitalização de mercado era de US$ 520,65 bilhões, a 12ª maior do mundo.
+
+A Samsung é uma importante fabricante de componentes eletrônicos, como baterias de íons de lítio, semicondutores, sensores de imagem, módulos de câmera e displays para clientes como Apple, Sony, HTC e Nokia. É o maior fabricante mundial de telefones celulares e smartphones, começando com o original Samsung Solstice e mais tarde, a popularidade de sua linha de dispositivos Samsung Galaxy. A empresa é também um importante fornecedor de computadores tablet, particularmente sua coleção Samsung Galaxy Tab com Android, e é considerada por desenvolver o mercado de phablet com a família de dispositivos Samsung Galaxy Note. Também desenvolveu smartphones com capacidade para 5G, incluindo o Galaxy S22, e telefones dobráveis, incluindo o Galaxy Z Fold 4. A Samsung é a maior fabricante de televisores do mundo desde 2006, e a maior fabricante mundial de telefones celulares desde 2011, quando ultrapassou a Apple até 2021. É também a maior fabricante de chips de memória do mundo, e de 2017 a 2018, foi a maior empresa de semicondutores do mundo, destronando brevemente a Intel, a campeã de décadas.
+
+A Samsung chegou ao Brasil em 1986 com duas linhas de produtos: monitores e discos rígidos. Com a rápida ascensão das operações brasileiras, a companhia passou a investir em unidades de fabricação locais para aumentar o portfólio disponível no país. A companhia conta com duas unidades fabris locais: uma localizada em Manaus (AM), e a outra em Campinas (SP).
+
+Doutor Kye Hyun Kyung é o chefe da Divisão de Soluções de Dispositivos da Samsung Electronics, supervisionando as operações globais das unidades de negócios de Memória, System LSI e Foundry.
+
+FICHA TÉCNICA DE CELULARES:
+
+Galaxy A54 5G: 
+
+Preço: R$2.999,00
+
+Velocidade do Processador: 2.4GHz, 2GHz
+Tipo de Processador: Octa Core
+
+Tamanho (Tela Principal): 163.1mm (6.4" retângulo cheio) / 158.9mm (6.3" cantos arredondados)
+
+Resolução (Tela Principal): 1080 x 2340 (FHD+)
+
+Tecnologia (Tela Principal): Super AMOLED
+
+Profundidade de Cor (Tela Principal): 16M
+
+Taxa de Atualização Máxima (Tela Principal): 120 Hz
+
+Câmeras Traseiras (Múltiplas) - Resolução: 50.0 MP + 12.0 MP + 5.0 MP
+
+
+
+Câmera Frontal - Resolução: 32.0 MP
+
+Resolução de Gravação de Vídeos: UHD 4K (3840 x 2160) @30fps
+
+Memória_(GB): 8 GB
+
+Armazenamento (GB): 256 GB*
+
+Armazenamento Disponível (GB): 219.0
+
+Armazenamento Externo Suportado: MicroSD (Up to 1TB)
+
+Número de Chip: Dual-SIM
+
+Tipo de Chip (SIM Card): Nano-SIM (4FF)
+
+Galaxy A34 5G: 
+
+Preço: R$1.979,10
+
+Tela infinita 6.6"
+Velocidade do Processador: 2.6GHz, 2GHz
+Tipo de Processador: Octa Core
+
+Tamanho (Tela Principal): 166.5mm (6.6" retângulo cheio) / 162.1mm (6.4" cantos arredondados)
+
+Resolução (Tela Principal): 1080 x 2340 (FHD+)
+
+Tecnologia (Tela Principal): Super AMOLED
+
+Profundidade de Cor (Tela Principal): 16M
+
+Taxa de Atualização Máxima (Tela Principal): 120 Hz
+
+Câmeras Traseiras (Múltiplas) - Resolução: 48.0 MP + 8.0 MP + 5.0 MP
+
+Câmeras Traseiras - Foco Automático: Sim
+
+Câmeras Traseiras - Estabilizador de Imagem: Sim
+
+Câmera Frontal - Resolução: 13.0 MP
+
+Memória_(GB): 6 GB
+
+Armazenamento (GB): 128 GB
+
+Armazenamento Externo Suportado: MicroSD (Up to 1TB)
+
+Número de Chip: Dual-SIM
+
+
+
+USB Interface: USB - Tipo C
+
+NFC: Sim
+
+ 
+Galaxy M54 5G:
+
+Preço: 2.429,10
+
+Display de 6,7" FHD+ 120Hz
+Câmera de 108MP com OIS
+Bateria de 6.000mAh (Padrão)
+
+2.4GHz, 2GHz
+
+Tipo de Processador: Octa Core
+
+Tamanho (Tela Principal): 169.5mm (6.7" retângulo cheio) / 166.4mm (6.6" cantos arredondados)
+
+Resolução (Tela Principal): 1080 x 2400 (FHD+)
+
+Tecnologia (Tela Principal): Super AMOLED Plus
+
+Profundidade de Cor (Tela Principal): 16M
+
+Taxa de Atualização Máxima (Tela Principal): 120 Hz
+
+Câmeras Traseiras (Múltiplas) - Resolução: 108.0 MP + 8.0 MP + 2.0 MP
+
+Câmera Frontal - Resolução: 32.0 MP
+
+Resolução de Gravação de Vídeos: UHD 4K (3840 x 2160) @30fps
+
+Memória_(GB): 8 GB
+
+Armazenamento (GB): 128 GB*
+
+Armazenamento Externo Suportado: MicroSD (Up to 1TB)
+
+Número de Chip: Dual-SIM
+
+
+
+USB Interface: USB - Tipo C
+
+Versão de USB: USB 2.0
+
+Localização: GPS, Glonass, Beidou, Galileo, NavIC, QZSS
+
+Conector de Fone de Ouvido: USB Type-C
+
+Versão de MHL: Não
+
+NFC: Sim
+
+Capacidade da Bateria (mAh, Typical): 6000
+
+
+Galaxy M34 5G: 
+
+Display FHD+ Super AMOLED de 6,5" com 120Hz
+Câmera OIS de 50 MP
+Bateria de 6.000 mAh
+
+Preço: 1.799,10
+
+Velocidade do Processador: 2.4GHz, 2GHz
+
+Tipo de Processador: Octa Core
+
+Tamanho (Tela Principal): 164.2mm (6.5" retângulo cheio) / 159.8mm (6.3" cantos arredondados)
+
+Tecnologia (Tela Principal): Super AMOLED
+
+Profundidade de Cor (Tela Principal): 16M
+
+Câmeras Traseiras (Múltiplas) - Resolução: 50.0 MP + 8.0 MP + 2.0 MP
+
+Câmeras Traseiras - Foco Automático: Sim
+
+Câmeras Traseiras - Estabilizador de Imagem: Sim
+
+Câmera Frontal - Resolução: 13.0 MP
+
+Câmera Traseira - Flash: Sim
+
+Câmera Frontal - Flash: Não
+
+Resolução de Gravação de Vídeos: UHD 4K (3840 x 2160) @30fps
+
+Memória_(GB): 6 GB
+
+Armazenamento (GB): 128 GB
+
+Armazenamento Externo Suportado: MicroSD (até 1TB)
+
+Número de Chip: Dual-SIM
+
+USB Interface: USB - Tipo C
+
+Versão de USB: USB 2.0
+
+
+Versão de Bluetooth: Bluetooth v5.3
+
+NFC: Sim
+
+
+Capacidade da Bateria (mAh, Typical): 6000
