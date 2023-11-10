@@ -1,1 +1,1 @@
-Imagens/avator.png
+imagens\avator.png

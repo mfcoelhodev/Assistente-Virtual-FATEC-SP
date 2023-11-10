@@ -7,13 +7,11 @@ import os
 import cProfile, random
 from chatbot import Samsung_Chatbot
 
-#from generate import conversa_com_chatbot
-
 root = ct.CTk()
 root.title("Assistente Virtual")
-ct.set_appearance_mode("light") #dark
-ct.set_default_color_theme("green")
-bgColor = "#f6f2f3"   #black
+ct.set_appearance_mode("dark") 
+ct.set_default_color_theme("blue")
+bgColor = "#f6f2f3"   #branco
 root.configure(fg_color=bgColor)
 root.geometry("1000x650+500+100")
 
@@ -26,7 +24,7 @@ else:
         pass
 
 with open(file_path, "w") as img_src:
-    image_list = 'Imagens/avator.png'
+    image_list ='imagens\\avator.png'
     my_image = image_list
     print(my_image)
     img_src.write(f"{my_image}")
@@ -37,19 +35,19 @@ class ChatApp:
         self.root.resizable(True, True)
         self.root.geometry("520x620+500+100")
 
-        self.optionFram = Frame(root, bg="#f6f2f3") #black
-        # All imagas for chatfram code
+        self.optionFram = Frame(root, bg="#f6f2f3") #branco
+        # Todas imagens pro chatframe
 
-        manIconSrc2 = Image.open("Imagens\\avatarsp.png")
+        manIconSrc2 = Image.open("imagens\\avatarsp.png")
         manIconImage2 = ImageTk.PhotoImage(manIconSrc2.resize((40, 40)))
-        submitIconSrc = Image.open("Imagens\\send2.png")
+        submitIconSrc = Image.open("imagens\\send2.png")
         submitIconImage = ImageTk.PhotoImage(submitIconSrc.resize((40, 40)))
-        messageIconSrc = Image.open("Imagens\\message.png")
+        messageIconSrc = Image.open("imagens\\message.png")
         messageIconImage = ImageTk.PhotoImage(messageIconSrc.resize((40, 40)))
-        chatIconSrc = Image.open("Imagens\\cpslogo.png")
-        chatIconImage = ImageTk.PhotoImage(chatIconSrc.resize((35, 35)))
+        chatIconSrc = Image.open("imagens\\cpslogo.png")
+        chatIconImage = ImageTk.PhotoImage(chatIconSrc.resize((50, 60)))
 
-        # All imagas for chatfram code ends here
+        #Todas imagens pro frama acabam aqui
 
         self.messageIcon = ct.CTkButton(self.optionFram, text="",image=messageIconImage, width=0, bg_color=bgColor, fg_color=bgColor)
         self.messageIcon.pack(side=RIGHT, anchor="nw", padx=5, pady=5)
@@ -58,13 +56,13 @@ class ChatApp:
                                 corner_radius=20)
         self.manIcon2.pack(side=LEFT, anchor="ne")
 
-        self.username = ct.CTkLabel(self.optionFram, text="Fale com a SAM", font=("consolas", 20), text_color="#010100") #d8d8df
+        self.username = ct.CTkLabel(self.optionFram, text="Fale com a FATEC", font=("consolas", 20), text_color="#010100") 
         self.username.pack(side=LEFT, padx=5, pady=7, anchor="ne")
         self.optionFram.pack(side=TOP, fill=X, anchor="n")
 
-        self.canvas = tk.Canvas(root, bg="#f6f2f3", highlightthickness=0) #black
+        self.canvas = tk.Canvas(root, bg="#f6f2f3", highlightthickness=0) #branco
 
-        self.label_frame = tk.Frame(self.canvas, bg="#f6f2f3") #black
+        self.label_frame = tk.Frame(self.canvas, bg="#f6f2f3") #branco
         self.label_frame.pack(side="left", fill="both", expand=True) 
 
         self.scrollable_window = self.canvas.create_window((0, 0), window=self.label_frame, anchor="nw")
@@ -82,7 +80,7 @@ class ChatApp:
         self.canvas.bind("<Configure>", self.resize_frame)
         self.canvas.pack(side=TOP, fill=BOTH)
 
-        bgColorChatFram = "#150767" #080420
+        bgColorChatFram = "#ff4141" #cor do frame de pergunta
         self.chatFram = Frame(root, bg=bgColorChatFram)
 
         self.chatIcon = ct.CTkButton(self.chatFram, text="",image=chatIconImage, width=20, bg_color=bgColorChatFram, fg_color=bgColorChatFram)
@@ -108,35 +106,34 @@ class ChatApp:
         self.msgInput.delete(0, END)
         user_image_src = Image.open(self.imagename)
         user_image = ImageTk.PhotoImage(user_image_src.resize((40, 40)))        
-        bot_image_src = Image.open("Imagens\\robot.png")
+        bot_image_src = Image.open("imagens\\avator2.png")
         bot_image = ImageTk.PhotoImage(bot_image_src.resize((40, 40)))
         if self.message != "":
             self.current_time = time.strftime("%H:%M")
             self.current_time_label = ct.CTkLabel(self.label_frame, text=self.current_time, font=("consolas", 12))
             self.current_time_label.pack(side=TOP, anchor="ne", pady=0, padx=45)
 
-            self.user_frame = ct.CTkFrame(self.label_frame, fg_color="black")
+            self.user_frame = ct.CTkFrame(self.label_frame, fg_color="#f6f2f3") # borda do pergunta
             self.user_frame.pack(side=TOP, anchor="ne")
-            self.user_label = ct.CTkLabel(self.user_frame, text=self.message, font=("Poppins", 15), fg_color="#419f5b", corner_radius=4,wraplength=250)
+            self.user_label = ct.CTkLabel(self.user_frame, text=self.message, font=("Poppins", 15), fg_color="#808080", corner_radius=4,wraplength=250) #cor da pergunta do usuário
                                     
             self.user_label.pack(side=LEFT, anchor="nw", pady=1, ipadx=15, ipady=6, padx=10)
-            self.user_image_label = ct.CTkLabel(self.user_frame, text="", image=user_image, fg_color="black")
+            self.user_image_label = ct.CTkLabel(self.user_frame, text="", image=user_image, fg_color="#f6f2f3") #borda pergunta do icone 
             self.user_image_label.pack(side=TOP, pady=13)
             self.root.update_idletasks()
             self.canvas.update_idletasks()
             self.canvas.yview_moveto(1.0)
             try:
-                ## teste com função chatbot
                 self.to_respond = Samsung_Chatbot(self.message)
                 if self.to_respond:
                     self.current_time = time.strftime("%H:%M")
                     self.current_time_label = ct.CTkLabel(self.label_frame, text=self.current_time, font=("consolas", 12))
                     self.current_time_label.pack(side=TOP, anchor="nw", pady=0, padx=55)
-                    self.bot_frame = ct.CTkFrame(self.label_frame, fg_color="black")
+                    self.bot_frame = ct.CTkFrame(self.label_frame, fg_color="#f6f2f3")#branco
                     self.bot_frame.pack(side=TOP, anchor="nw", padx=10)
-                    self.bot_response_label = ct.CTkLabel(self.bot_frame, text=self.to_respond, font=("Poppins", 14), fg_color="#444", corner_radius=6, wraplength=300)                
+                    self.bot_response_label = ct.CTkLabel(self.bot_frame, text=self.to_respond, font=("Poppins", 14), fg_color="#124fb3", corner_radius=6, wraplength=300)                
                     self.bot_response_label.pack(side=RIGHT, anchor="ne", padx=10, pady=1, ipady=8, ipadx=10)
-                    self.bot_image_label = ct.CTkLabel(self.bot_frame, text="", image=bot_image, fg_color="black")
+                    self.bot_image_label = ct.CTkLabel(self.bot_frame, text="", image=bot_image, fg_color="#f6f2f3")#branco
                     self.bot_image_label.pack(side=TOP, pady=13)
                     self.canvas.update_idletasks()
                     self.canvas.yview_moveto(1.0)
