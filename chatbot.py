@@ -15,7 +15,7 @@ import constants
 os.environ["OPENAI_API_KEY"] = constants.APIKEY
 openai_api_key = os.environ["OPENAI_API_KEY"]
 
-def Samsung_Chatbot(pergunta):
+def chatbot(pergunta):
 
     # nltk.download('averaged_perceptron_tagger')
 

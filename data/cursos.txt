@@ -1,0 +1,126 @@
+CURSOS:
+
+A Fatec-SP atualmente possui os cursos superiores em tecnologia em: Análise e Desenvolvimento de Sistemas (ADS), Edifícios, Eletrônica Industrial, Estradas, Gestão de empreendimentos gastronomicos, Gestão de Turismo, Gestão Empresarial, Hidraulica e Saneamento Ambiental, Materiais, Instalações elétricas, Mecanica de Precisão, Microeletrônica, Processos de Produção, Produção Cultural, Projetos, Secretariado e Assessoria Internacional e Soldagem. 
+
+Análise e Desenvolvimento de Sistemas (ADS): 
+
+Sucessor do curso de Processamento de Dados da Fatec-SP, o curso é de nível tecnólogo. O curso ADS da FATEC SP é oferecido nos turnos: Manhã, Tarde e Noite.
+
+Horário das aulas
+
+Manhã: 07h30 às 12h30
+Tarde: 12:50 às 18h00
+Noite: 19h00 às 22h00
+Duração da hora/aula: 50 minutos.
+Carga horária total do Curso
+
+2833 horas, sendo 2920 horas aula (2433 horas), mais 240 horas de Estágio Supervisionado e 160 horas de Trabalho de Graduação.
+
+Número de vagas oferecidas
+
+Manhã: 40 vagas, por semestre
+Tarde: 40 vagas, por semestre
+Noite: 80 vagas, por semestre
+Obs: os 2 últimos semestres da manhã e tarde são oferecidos a noite.
+
+Tempo para integralização:
+
+Mínimo: 06 semestres (manhã/tarde) e 08 semestres (noite)
+Máximo: 10 semestres (manhã e tarde) e 13 semestres (noite)
+
+
+MATÉRIAS Análise e Desenvolvimento de Sistemas (ADS):
+
+OBRIGATÓRIAS: 
+
+DISCIPLINAS DO 1º SEMESTRE e suas siglas:
+
+AAG - Administração Geral 
+IAL - Algoritmos e Lógica de Programação
+IAC - Arquitetura e Organização de Computadores 
+LPO - Comunicação e Expressão 
+MMD - Matemática Discreta
+ILM - Programação em Microinformática 
+ISI - Sistemas de Informação 
+
+DISCIPLINAS DO 2º SEMESTRE e suas siglas:
+
+Eletiva I 
+IES -Engenharia de Software I 
+ILP-Laboratório de Arquitetura e Organização de Computadores 
+IHW-Laboratório de Hardware 
+ILP-Linguagem de Programação 
+MCA-Matemática 
+ISO-Sistemas Operacionais I 
+HST-Sociedade e Tecnologia 
+
+DISCIPLINAS DO 3º SEMESTRE e suas siglas:
+
+IBD-002 6953 Banco de Dados
+CCG-001 6954 Contabilidade 
+IES-200 6955 Engenharia de Software II 
+MET-100 1745 Estatística Aplicada
+IED-001 6956 Estruturas de Dados
+IHC-001 6957 Interação Humano Computador
+ISO-200 6958 Sistemas Operacionais II
+
+DISCIPLINAS DO 4º SEMESTRE e suas siglas:
+
+ Eletiva III 
+CEF-100 6959 Economia e Finanças
+IES-300 6960 Engenharia de Software III
+IBD-100 6961 Laboratório de Banco de Dados (Escolha I) 
+MPL-001 6962 Programação Linear e Aplicações
+ILP-007 6963 Programação Orientada a Objetos 
+IRC-008 6964 Redes de Computadores
+ISG-003 6965 Segurança da Informação
+ISD-001 6966 Sistemas Distribuídos (Escolha I)
+
+DISCIPLINAS DO 5º SEMESTRE e suas siglas:
+
+ISA-002 6967 Auditoria de Sistemas (Escolha II)
+CEE-002 6968 Empreendedorismo
+AGR-101 6969 Gestão de Equipes
+AGO-006 6970 Gestão de Projetos 
+IES-301 6971 Laboratório de Engenharia de Software 
+IRC-100 6972 Laboratório de Redes (Escolha II) 
+TTG-001 6973 Metodologia de Pesquisa Científco-Tecnológica 
+
+DISCIPLINAS DO 6º SEMESTRE e suas siglas: 
+
+HSE-001 6974 Ética e Responsabilidade Profissional
+ITI-003 6975 Gestão e Governança de Tecnologia da Informação 
+IIA-002 6976 Inteligência Artificial (Escolha III)
+ICR-500 6977 Projeto de Redes de Computadores (Escolha III) 
+INF-300 6980 Seminários em Informática 
+IRC-501 6978 Sistemas Operacionais de Redes de Computadores (Escolha IV) 
+ITE-002 6979 Tópicos Especiais em Informática (Escolha IV) 
+
+ESTÁGIO E TRABALHO DE GRADUAÇÃO
+TTG-003 6200 Trabalho de Conclusão de Curso 
+TES-001 6201 Estágio Supervisionado 
+
+ELETIVAS:
+
+IAL-501 6522 Análise de Algoritmos 
+ILP-510 6523 Linguagem de Programação I – Cobol 
+ILP-520 6524 Linguagem de Programação II – Visual Basic 
+ILP-530 6525 Linguagem de Programação III – Java 
+ILP-540 6526 Linguagem de Programação IV – Internet
+ILP-550 6527 Linguagem de Programação V – Delphi 
+ILP-560 6528 Linguagem de Programação VI – Java Avançado 
+ILP-570 6529 Linguagem de Programação VII – Delphi Avançado
+ILP-580 6530 Linguagem de Programação VIII – VB. NET e ASP 
+MMQ-001 1746 Métodos Quantitativos e Aplicações 
+ILP-590 6531 Microinformática Aplicada 
+ILP-509 6532 Programação Avançada Orientada a Objetos 
+ILP-502 6533 Programação de Scripts 
+ILP-504 6534 Programação em Automação Industrial 
+ILP-503 6535 Programação em Lógica 
+ILP-505 6536 Programação para Bancos de Dados
+ILP-506 6537 Programação para Dispositivos Móveis 
+ILP-507 6538 Programação para Mainframe
+ILP-508 6539 Programação WEB 4 80
+ISA-006 6540 Semiótica Aplicada a Sistemas de Informação 
+ISL-002 6541 Software Livre
+IQS-500 6542 Testes de Software 
