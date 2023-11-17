@@ -10,3 +10,7 @@ APIKEY = "<CHAVE DA SUA API>"
 
 ## Video do projeto rodando
 
+
+
+https://github.com/mfcoelhodev/Assistente-Virtual-FATEC-SP/assets/142999756/b520d43f-292e-4a16-8991-7640df2f11c3
+
